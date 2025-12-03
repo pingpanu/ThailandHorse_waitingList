@@ -1,0 +1,8 @@
+{
+    "watch": [
+        "*.html",
+        "src/**/*"
+    ],
+    "ext": "html,css,js",
+    "exec": "http-server ./ -c-1 -o"
+}
